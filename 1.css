@@ -1,0 +1,22 @@
+body{
+    background-color: yellowgreen;
+}
+#jay{
+      margin:15px;
+      padding:15px;
+}
+#jay2{
+    background-color: yellowgreen;
+    margin: 450px;
+    margin-top: 190px;
+
+}
+table{
+    background-color: burlywood;
+    width: 500px;
+}
+label{
+	width:175px;
+	display:inline-block;
+    margin: 4px;
+   }
